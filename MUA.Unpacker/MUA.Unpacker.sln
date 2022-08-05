@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUA.Unpacker", "MUA.Unpacker\MUA.Unpacker.csproj", "{F1836FD1-31FB-4C4A-9406-9C12926CF9E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1836FD1-31FB-4C4A-9406-9C12926CF9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1836FD1-31FB-4C4A-9406-9C12926CF9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1836FD1-31FB-4C4A-9406-9C12926CF9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1836FD1-31FB-4C4A-9406-9C12926CF9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874613EB-C505-48EF-AE47-28923848EA27}
+	EndGlobalSection
+EndGlobal
